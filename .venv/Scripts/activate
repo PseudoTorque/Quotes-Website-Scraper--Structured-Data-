@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="c:\Users\abhay\OneDrive\Desktop\Projects\Quotes-Website-Scraper-\Quotes-Website-Scraper--Structured-Data-\.venv"
+VIRTUAL_ENV="c:\Users\mineS\OneDrive\Desktop\Projects\Web Scraping\Quotes Website Scraper (Structured Data)\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=c:\Users\abhay\OneDrive\Desktop\Projects\Quotes-Website-Scraper-\Quotes-Website-Scraper--Structured-Data-\.venv
+set VIRTUAL_ENV=c:\Users\mineS\OneDrive\Desktop\Projects\Web Scraping\Quotes Website Scraper (Structured Data)\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
